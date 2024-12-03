@@ -1,0 +1,6 @@
+[
+    {"title" : "The Grapes of Wrath", "author" : "John Steinbeck", "price" : 34.24, "qty" :99},
+    {"title" : "The Great Gatsby", "author" : "F. Scott Fitzgerald", "price" : 39.26, "qty" : null},
+    {"title" : "Nineteen Eighty-Four", "author" : "George Orwell", "price" : 15.39, "qty": 42},
+    {"title" : "Ulysses", "author" : "James Joyce", "price" : 23.26}
+]
